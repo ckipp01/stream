@@ -33,3 +33,8 @@ case, I needed to click the BlackHole 2ch and bump the volume up there.
 Then, finally in OBS, when I would add my Desktop Audio, it would work as
 expected. For further instructions about setting up OBS, look to YouTube. There
 are thousands of videos that explain it better than I could here.
+
+## Video
+
+### Hardware
+  - [logitech C920](https://www.logitech.com/en-us/products/webcams/c920-pro-hd-webcam.960-000764.html)
