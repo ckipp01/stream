@@ -8,3 +8,5 @@
 
 - Add in ability to pass in a function to display virtual text
     - https://github.com/neovim/neovim/issues/13860
+
+- Make fish completions for tree-sitter cli
