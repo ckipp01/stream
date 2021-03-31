@@ -10,7 +10,7 @@ PATH=notes/streams/$DATE.md
 
 ## What we actually worked on
 
-## Notes from the stream
+## Notes and links from the stream
 
 ## Thoughts on how the stream went
 EOL
