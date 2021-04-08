@@ -17,7 +17,6 @@ Just to note the audio equipment that I'm using is the following:
   - [ExisentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole)
 
 ### Setup
-
 When first setting up it may not be clear what BlackHole is for. Blackhole
 allows you to create a Multi-Output Device which allows for OBS to hear your
 desktop sounds and also for you to hear them at the same time. You care this
@@ -38,3 +37,7 @@ are thousands of videos that explain it better than I could here.
 
 ### Hardware
   - [logitech C920](https://www.logitech.com/en-us/products/webcams/c920-pro-hd-webcam.960-000764.html)
+  - [ELEGIANT Ring Light](https://www.amazon.nl/-/en/gp/product/B086QMRTXD)
+      - This is basically one of the cheapest ones I could find. I wanted to see
+          if this would really help before going crazy and buying an expensive
+          Elgato light or something. This made a huge difference.
