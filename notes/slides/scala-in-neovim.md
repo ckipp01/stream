@@ -23,7 +23,7 @@ like coc-metals or nvim-metals.
 
 ## LSP Extensions
   - `metals/quickPick`
-  - `metals/inputBix`
+  - `metals/inputBox`
   - `metals/executeClientCommand`
   - `metals/status`
   - `metals/didFocusTextDocument`
