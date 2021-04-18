@@ -6,24 +6,24 @@ Twitch I think this would be a really cool idea to just stream. Over the past
 year/ish the whole idea of how content is pushed out has changed due to the lack
 of in-person conferences. While there are some digital conferences that are
 filling the void, this doesn't replace the informal talks that I enjoyed having
-with people at conferences, especially regarding topics that I'm specifically
+with people when gathered, especially regarding topics that I'm specifically
 interested in. For me, that's tooling. You'll notice that often at conferences
-there will be a single talk or maybe two on tooling, and that's sort of it. I'd
-like to somehow open up the conversation on tooling, especially seeing that it's
-something we as developers use daily.
+there will only be a single talk or maybe two on tooling, and that's sort of it.
+I'd like to somehow open up the conversation on tooling, especially seeing that
+it's something we as developers use daily.
 
 ## The format
 
 My plan is to reach out to various people in the Scala community* that are known
 for their work on tooling and invite them to have an informal discussion about
-the tooling that they've worked on. We'll talk about why they maybe started X
-tool, how they've seen it grow and change over time, and maybe what they learned
-from the experience. I can see this being especially interesting for tools that
-have had multiple generations of maintainers.
+the tooling that they've worked on. We'll talk about why they started X tool,
+how they've seen it grow and change over time, and also what they learned from
+the experience. I can see this being especially interesting for tools that have
+had multiple generations of maintainers.
 
 Due to the informal structure of this and also it being hosted on Twitch,
 questions from those watching would be welcomed and hopefully that informal chat
-atmosphere that we had at conferences can be mimicked.
+atmosphere that we had between talks at conferences can be mimicked.
 
 ## The process
 
@@ -31,10 +31,10 @@ atmosphere that we had at conferences can be mimicked.
    3 lined up (1 per month) planned in order to start this. I don't want to get
    one, and then struggle to not be able to continue this.
 2. We'll announce it ahead of time, hopefully spark up some interest, and then
-   stream it. I"ll figure out a nice OBS layout to show both people on the
+   stream it. I'll figure out a nice OBS layout to show both people on the
    screen and also have the ability to show something in the browser or even in
-   the terminal if necessary.* We can also figure out a nice way to get a logo
-   or something to be _real professional_.
+   the terminal if necessary.* We can also figure out a way to get a logo or
+   something to be _real professional_.
 3. Upload these to YouTube for those that miss the actual stream.
 
 

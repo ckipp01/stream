@@ -1,7 +1,7 @@
 #!/usr/bin/env sh
 
 DATE=$(date +'%m-%d-%Y')
-PATH=notes/streams/$DATE.md
+PATH=notes/stream-notes/$DATE.md
 
 /bin/cat > $PATH <<EOL
 # $DATE
