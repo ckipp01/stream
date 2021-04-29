@@ -6,7 +6,6 @@
 ## nvim-metals things
 
 ## NeoVim things
-    - Can we stop the client multiple times without the force happening?
     - Add in ability to pass in a function to display virtual text
         - https://github.com/neovim/neovim/issues/13860
 
