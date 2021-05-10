@@ -29,7 +29,7 @@ object Main {
           .onEvent(classOf[ChannelMessageEvent], MessageConsumer.consumer(chat))
 
       case None =>
-        scribe.error("Unable to fine an oath token, exiting.")
+        scribe.error("Unable to find an oath token, exiting.")
         sys.exit(1)
     }
   }

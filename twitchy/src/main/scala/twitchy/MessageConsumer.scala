@@ -27,12 +27,12 @@ object MessageConsumer {
   def consumer(chat: TwitchChat) = new Consumer[ChannelMessageEvent] {
     override def accept(e: ChannelMessageEvent): Unit = {
       val message = Option(e.getMessage())
-      val user = e.getUser()
+      val user = e.getUser().getName()
       message match {
         case Some(m) if m.startsWith("!q") =>
           chat.sendMessage(
             "ckipp",
-            s"[[BOT MODE]] - Captured your question! Thanks, $user!"
+            s"🤖 - Captured your question! Thanks, $user!"
           )
           questionLogger.info(m)
         case Some(m) => chatLogger.info(s"[$user] - $m")

@@ -8,7 +8,7 @@ lazy val V = new {
 
 lazy val root = (project in file("."))
   .settings(
-    name := "twitcy",
+    name := "twitchy",
     libraryDependencies ++= Seq(
       "com.github.twitch4j" % "twitch4j" % "1.3.1",
       "com.lihaoyi" %% "mainargs" % "0.2.1",
