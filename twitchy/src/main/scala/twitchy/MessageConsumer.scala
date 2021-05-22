@@ -34,7 +34,7 @@ object MessageConsumer {
             "ckipp",
             s"🤖 - Captured your question! Thanks, $user!"
           )
-          questionLogger.info(m)
+          questionLogger.info(s"[$user] - $m")
         case Some(m) => chatLogger.info(s"[$user] - $m")
         case None =>
           scribe.warn(
