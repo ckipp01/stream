@@ -29,7 +29,7 @@ object MessageConsumer {
       val message = Option(e.getMessage())
       val user = e.getUser().getName()
       message match {
-        case Some(m) if m.startsWith("!q") =>
+        case Some(m) if m.take(2) == "!q" =>
           chat.sendMessage(
             "ckipp",
             s"🤖 - Captured your question! Thanks, $user!"
