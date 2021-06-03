@@ -4,6 +4,7 @@ I've been asked a few times if I know of anyone else out there streaming Scala.
 Here is a list of people I've seen stream Scala with varying frequency. Feel
 free to add to the list if I've missed anyone!
 
+- [twitch.tv/ckipp](https://www.twitch.tv/ckipp)
 - [twitch.tv/japgolly](https://www.twitch.tv/japgolly)
 - [twitch.tv/kitlangton](https://www.twitch.tv/kitlangton)
 - [twitch.tv/kubukoz](https://www.twitch.tv/kubukoz)
