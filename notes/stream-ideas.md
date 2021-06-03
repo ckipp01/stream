@@ -21,3 +21,6 @@
     - Scala topics that aren't easy to find information on for newcomers to the JVM
         - ServiceLoader
         - Runtime reflection
+
+## scala-utils things
+    - Add cs java utilities to the coursier module
