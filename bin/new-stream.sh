@@ -8,9 +8,9 @@ PATH=notes/stream-notes/$DATE.md
 
 ## The plan for the day
 
-## What we actually worked on
-
 ## Notes and links from the stream
+
+## What we actually worked on
 
 ## Thoughts on how the stream went
 EOL
