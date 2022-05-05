@@ -5,6 +5,7 @@ Here is a list of people I've seen stream Scala with varying frequency. Feel
 free to add to the list if I've missed anyone!
 
 - [twitch.tv/ckipp](https://www.twitch.tv/ckipp) _EN_
+- [twitch.tv/dwijnard](https://www.twitch.tv/dwijnand) _EN_
 - [twitch.tv/japgolly](https://www.twitch.tv/japgolly) _EN_
 - [youtube.com/KevTVKR](https://www.youtube.com/KevTVKR) _KO_
 - [twitch.tv/kitlangton](https://www.twitch.tv/kitlangton) _EN_
